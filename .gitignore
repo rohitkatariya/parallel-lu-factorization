@@ -1,0 +1,5 @@
+.vscode
+.ipynb_checkpoints/*
+/input_dir/
+*.out
+input*.txt
